@@ -1,2 +1,2 @@
 # statistical-evalution
-evalution of a animal population variety with sklean
+evalution of an animal population variety with sklean
